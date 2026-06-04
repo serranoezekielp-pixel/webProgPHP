@@ -23,8 +23,6 @@ $dog = $data[0];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A simple web application that generates random dog pictures using The Dog API.">
     <meta name="author" content="Ezekiel Serrano"
-    <title>Random Dog Generator</title>
-
     <link rel="stylesheet" href="style.css">
 </head>
 
