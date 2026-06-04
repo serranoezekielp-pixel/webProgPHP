@@ -25,7 +25,7 @@ $dog = $data[0];
     <meta name="
     <title>Random Dog Generator</title>
 
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
